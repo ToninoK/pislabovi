@@ -7,6 +7,8 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             Console.WriteLine("Hello new world!");
+            //nova promjena od strane mene
+            Console.WriteLine("Hello Tonino!");
         }
     }
 }
