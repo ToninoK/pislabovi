@@ -6,5 +6,8 @@ namespace ConsoleApp1
 {
     class NewClass
     {
+        public static void ohNoConflict() {
+            Console.Writeline("such an unexpected conflict");
+        }
     }
 }
