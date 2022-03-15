@@ -6,5 +6,9 @@ namespace ConsoleApp1
 {
     class NewClass
     {
+        public static void printSmth()
+        {
+            Console.WriteLine("This prints smth");
+        }
     }
 }
